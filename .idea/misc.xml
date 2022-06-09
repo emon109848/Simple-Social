@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/drawable/baseline_favorite_border_24.xml" value="0.32" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/drawable/circle.xml" value="0.2015" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.32" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/drawable/ic_search.xml" value="0.2015" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/drawable/orange_circle.xml" value="0.1785" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/drawable/white_circle.xml" value="0.2015" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/layout/deshboard_rv.xml" value="0.4282238442822384" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/layout/deshboard_rv_sample.xml" value="0.33" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/layout/fragment_home.xml" value="0.4070642733063115" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/layout/fragment_notification.xml" value="0.36666666666666664" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/layout/friend_rv_sample.xml" value="0.36666666666666664" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/layout/stroy_rv_design.xml" value="0.67" />
+        <entry key="..\:/code/SimpleSocial/app/src/main/res/xml/tabs.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
